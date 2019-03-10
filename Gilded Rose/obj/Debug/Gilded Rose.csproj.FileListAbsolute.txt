@@ -1,0 +1,7 @@
+D:\C# projects\Gilded Rose\Gilded Rose\obj\Debug\Gilded Rose.csprojAssemblyReference.cache
+D:\C# projects\Gilded Rose\Gilded Rose\obj\Debug\Gilded Rose.csproj.CoreCompileInputs.cache
+D:\C# projects\Gilded Rose\Gilded Rose\bin\Debug\Gilded Rose.exe.config
+D:\C# projects\Gilded Rose\Gilded Rose\bin\Debug\Gilded Rose.exe
+D:\C# projects\Gilded Rose\Gilded Rose\bin\Debug\Gilded Rose.pdb
+D:\C# projects\Gilded Rose\Gilded Rose\obj\Debug\Gilded Rose.exe
+D:\C# projects\Gilded Rose\Gilded Rose\obj\Debug\Gilded Rose.pdb
