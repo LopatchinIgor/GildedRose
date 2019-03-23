@@ -12,7 +12,7 @@ namespace Gilded_Rose
         {
             if (Quality >= 50) return;
 
-            Quality++;
+            Quality+=1;
         }
 
         protected override void QualityDecreaseAfterSellIn()
